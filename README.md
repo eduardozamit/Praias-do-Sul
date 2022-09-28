@@ -4,5 +4,5 @@ Projeto que fiz do zero, desde o design até código com o intuito de estudar/re
 <div align="center">
      
 ## Web
-<img src="Screenshot-site-praias" alt="In Web">    
+<img src="Screenshot-site-praias.png" alt="In Web">    
 </div>
